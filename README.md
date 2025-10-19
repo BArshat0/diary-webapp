@@ -62,7 +62,7 @@ A secure, modern web-based diary application built with Flask that provides user
 python diary_webapp.py
 
   # Production
-gunicorn wsgi:app (or you can use waitress)
+gunicorn wsgi:app (or you can use waitress
 
 ## 📁 Project Structure
 diary-webapp/
@@ -98,5 +98,5 @@ diary-webapp/
 💬 Passionate about Cybersecurity and AI-Prompt Enginnering.
 📍 Built entirely with ChatGPT & DeepSeek assistance.
 
-5. Set up environment
+
     
